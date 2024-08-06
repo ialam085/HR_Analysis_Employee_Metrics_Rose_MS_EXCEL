@@ -1,4 +1,4 @@
-## ![#1589F0](https://placehold.co/18x18/1589F0/1589F0.png) HR Analysis (10 Years) | Rose IT Solutions Pvt. Ltd. Annual Employee Report (2010 - 2019)
+## ![#1589F0](https://placehold.co/18x18/1589F0/1589F0.png) HR Analysis for Employee Metrics over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd.
 
 The main objective of the attached dashboard is to analyze the HR metrics of Rose IT Solutions over a 10-year period (2010-2019), focusing on employee growth, new joiners versus employees who left, average employees per year, business cost per head, and gross business annual expenses.
 
