@@ -2,9 +2,9 @@
 
 >The main objective of the attached dashboard is to analyze the HR metrics of Rose IT Solutions over a 10-year period (2010-2019), focusing on employee growth, new joiners versus employees who left, average employees per year, business cost per head, and gross business annual expenses.
 
-### ◻️ Tools used
+### ◻️ Teck Stack
 
->- Microsoft Excel
+>- Microsoft Excel (Pivot Table, Pivot Charts)
 
 ### ◻️ Visualizations Includes
 
