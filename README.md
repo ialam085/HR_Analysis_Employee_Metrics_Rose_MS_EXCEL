@@ -22,11 +22,10 @@
 
 ### ◻️ Key Insights
 
->- **Track Employee Trends**: Monitor the growth and compare existing vs. new employees over 10 years.
->- **Analyze Employee Turnover**: Compare yearly new joiners and employees who left.
->- **Measure Average Employee Count**: Display the average number of employees per year.
->- **Evaluate Business Costs Per Head**: Analyze yearly business cost per employee.
->- **Review Gross Business Annual Expenses**: Visualize gross annual business expenses from 2010 to 2019.
+>- **Employee Growth**: The average number of employees steadily increased from 2010 to 2019.
+>- **New Joiners vs Attrition**: There was a consistent trend of new joiners surpassing employees who left, contributing to the overall growth in the workforce.
+>- **Business Cost Per Employee**: As the employee count increased, the business cost per head gradually decreased.
+>- **Gross Annual Business Expense**: The gross business expenses grew significantly from ₹9.5 million in 2010 to ₹35.8 million in 2019.
 
 ### ◻️ Images
 
