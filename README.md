@@ -6,7 +6,14 @@
 
 >- Microsoft Excel (Pivot Table, Pivot Charts)
 
-### ◻️ Visualizations Includes
+### ◻️ Steps incudes
+
+>- Data Cleaning
+>- Data formatting
+>- Data Analysis
+>- Dashboard creation
+
+### ◻️ Visualizations includes
 
 >- Donut charts
 >- Pie charts
