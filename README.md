@@ -9,7 +9,7 @@
 ### ◻️ Steps incudes
 
 >- Data Cleaning
->- Data formatting
+>- Data Formatting
 >- Data Analysis
 >- Dashboard creation
 
