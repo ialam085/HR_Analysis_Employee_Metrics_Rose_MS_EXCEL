@@ -22,10 +22,10 @@
 
 ### ◻️ Key Insights
 
->- **Employee Growth**: The average number of employees steadily increased from 2010 to 2019.
+>- **Employee Growth**: The average number of employees steadily increased from 122 in the year 2010 to 519 in the year 2019.
 >- **New Joiners vs Attrition**: There was a consistent trend of new joiners surpassing employees who left, contributing to the overall growth in the workforce.
 >- **Business Cost Per Employee**: As the employee count increased, the business cost per head gradually decreased.
->- **Gross Annual Business Expense**: The gross business expenses grew significantly from ₹9.5 million in 2010 to ₹35.8 million in 2019.
+>- **Gross Annual Business Expense**: The significant growth in gross business expenses from ₹9.5 million in 2010 to ₹35.8 million in 2019 was driven by the increase in employee count.
 
 ### ◻️ Images
 
