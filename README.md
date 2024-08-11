@@ -1,4 +1,4 @@
-## 🔳 HR Analysis for Employee Metrics over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd.
+## 🔳 HR Analysis for Employee Metrics over a Decade (2010-2019) | Rose IT Solutions Pvt. Ltd. (using MS-EXCEL)
 
 ### ◻️ Objective
 
