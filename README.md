@@ -22,6 +22,19 @@
 >- Column charts
 >- Line charts
 
+### ◻️ Analysis includes
+
+>- Employee growth
+>- New joiners
+>- Attrition rate
+>- Monthly average employees
+>- Business cost per head
+>- Gross annual expense
+>- Cost per head percentage
+>- Employee retention
+>- Yearly expense trend
+>- Workforce expansion
+
 ### ◻️ Key Insights
 
 >- **Employee Growth**: The average number of employees steadily increased from 122 in the year 2010 to 519 in the year 2019.
